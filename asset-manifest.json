@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/jeremiahneri/Sample_React_Repository_Routes_Neri/static/css/main.88404e20.css",
+    "main.js": "/jeremiahneri/Sample_React_Repository_Routes_Neri/static/js/main.a2571385.js",
+    "static/js/787.60033b94.chunk.js": "/jeremiahneri/Sample_React_Repository_Routes_Neri/static/js/787.60033b94.chunk.js",
+    "index.html": "/jeremiahneri/Sample_React_Repository_Routes_Neri/index.html",
+    "main.88404e20.css.map": "/jeremiahneri/Sample_React_Repository_Routes_Neri/static/css/main.88404e20.css.map",
+    "main.a2571385.js.map": "/jeremiahneri/Sample_React_Repository_Routes_Neri/static/js/main.a2571385.js.map",
+    "787.60033b94.chunk.js.map": "/jeremiahneri/Sample_React_Repository_Routes_Neri/static/js/787.60033b94.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.88404e20.css",
+    "static/js/main.a2571385.js"
+  ]
+}
